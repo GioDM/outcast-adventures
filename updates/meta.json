@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+      {
+        "id": "1.0.0",
+        "releasedAt": 1725206400000,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://curseforge.com/"
+            },
+            "minor": false
+        } 
+    }
+  ]
+}
