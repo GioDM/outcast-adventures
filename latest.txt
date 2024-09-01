@@ -1,0 +1,8 @@
+&lWelcome to Alpha 1.0.0!&r
+
+This is the initial release of
+this modpack, things might be
+a bit buggy.
+
+&lWant to see something changed?&r
+Don't hesitate to text me on discord!
