@@ -1,9 +1,8 @@
 **Welcome to Alpha 1.0.2!**
 
-In the last release I noticed that there were enchants that were too
-overpowered. These enchants got removed.
+In the last release I noticed that there were enchants that were too overpowered. These enchants got removed.
 I also undid the fact that resource packs got enabled by default.
-There are still other things to be workedon: quests, balancing mods, custom data packs,etc...
+There are still other things to be worked on: quests, balancing mods, custom data packs,etc...
 
 **What has changed?**
 
