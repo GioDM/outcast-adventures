@@ -1,8 +1,27 @@
-&lWelcome to Alpha 1.0.0!&r
+&lWelcome to Alpha 1.0.2!&r
 
-This is the initial release of
-this modpack, things might be
-a bit buggy.
+In the last release I noticed that
+there were enchants that were too
+overpowered. These enchants got removed.
+I also undid the fact that resource packs
+got enabled by default.
+There are still other things to be worked
+on: quests, balancing mods, custom data packs,
+etc...
 
-&lWant to see something changed?&r
-Don't hesitate to text me on discord!
+&lWhat has changed?&r
+
+&l-&r Updated all mods to the latest version.
+&l-&r Removed some &lenchants&r for being too
+      overpowered.
+&l-&r Removed &lresource packs&r from being
+      applied automatically.
+&l-&r Added some &lnew biomes&r above &oand
+      under&r the ground in the overworld!
+&l-&r Added &lstructures&r to the &oNether&r
+      and &oThe End&r.
+&l-&r Added more &lfoods and meals&r, enjoy
+      the popcorn!
+&l-&r Added more &lmobs&r! Watch out for the
+      Frozen Zombies or the &oforgotten species&!
+&l-&r Fixed some bugs!
