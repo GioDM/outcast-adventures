@@ -1,0 +1,19 @@
+Changelogs are readable ingame aswell.
+
+
+# Welcome to Alpha 1.0.2!
+
+In the last release I noticed that there were enchants that were too overpowered for this modpack. These enchants got removed. There were also complains about resource pack being default and non-removable. These resource packs are not default anymore and can be applied when you feel like it.
+There are still things to be worked on: quests, balancing mods, making custom datapacks, etc.
+
+
+# What has changed?
+
+- Updated all the mods to latest version.
+- Removed some **enchants** for being too overpowered.
+- Removed **resource packs** from being automatically applied when joining.
+- Added some **new biomes** above *and under* the ground to the overworld!
+- Added some **structures** to the *Nether* and *The End*.
+- Added more **foods and meals** to the modpack, enjoy the popcorn!
+- Added more **mobs**! Watch out for the frozen Zombies or the *forgotten species*!
+- Fixed some bugs with the custom menu's.
