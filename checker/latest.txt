@@ -7,11 +7,11 @@ There are still other things to be workedon: quests, balancing mods, custom data
 
 &lWhat has changed?&r
 
-&l-&r Updated all mods to the latest version.
-&l-&r Removed some &lenchants&r for being too overpowered.
-&l-&r Removed &lresource packs&r from being applied automatically.
-&l-&r Added some &lnew biomes&r above &oand under&r the ground in the overworld!
-&l-&r Added &lstructures&r to the &oNether&r and &oThe End&r.
-&l-&r Added more &lfoods and meals&r, enjoy the popcorn!
-&l-&r Added more &lmobs&r! Watch out for the Frozen Zombies or the &oforgotten species&!
-&l-&r Fixed some bugs!
+- Updated all the mods to latest version.
+- Removed some **enchants** for being too overpowered.
+- Removed **resource packs** from being automatically applied when joining.
+- Added some **new biomes** above *and under* the ground to the overworld!
+- Added some **structures** to the *Nether* and *The End*.
+- Added more **foods and meals** to the modpack, enjoy the popcorn!
+- Added more **mobs**! Watch out for the frozen Zombies or the *forgotten species*!
+- Fixed some bugs with the custom menu's.
