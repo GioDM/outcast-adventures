@@ -11,6 +11,11 @@
             },
             "minor": true
         } 
+    },
+    {
+      "id": "1.0.2",
+      "releasedAt": 1726207200000,
+      "minor": true
     }
   ]
 }
